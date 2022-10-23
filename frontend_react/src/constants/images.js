@@ -19,6 +19,7 @@ import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
 import spring from '../assets/spring.png';
 import dotnet from '../assets/NET.png'
+import linkedin from '../assets/linkedin.png'
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -73,4 +74,5 @@ export default {
   spotify,
   spring,
   dotnet,
+  linkedin,
 };
