@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.5febde62.css",
-    "main.js": "/static/js/main.5dbc795e.js",
+    "main.js": "/static/js/main.2773bf2e.js",
+    "static/media/profile.png": "/static/media/profile.66949b43b3d8409a7842.png",
     "static/media/bgIMG.png": "/static/media/bgIMG.c39101e520e2997fc6d4.png",
     "static/media/bgWhite.png": "/static/media/bgWhite.79658cadae50b3b16ee5.png",
     "static/media/about04.png": "/static/media/about04.406fdb7e24ad8887fae3.png",
-    "static/media/profile.png": "/static/media/profile.c4b60634ffd3f13aaad1.png",
     "static/media/spotify.png": "/static/media/spotify.2b5e9be1eb1ab501e7cd.png",
     "static/media/nb.png": "/static/media/nb.98f3253e32cc67a4cb5e.png",
     "static/media/NET.png": "/static/media/NET.4889519c4b8cdad29341.png",
     "static/media/about02.png": "/static/media/about02.9ca45d0a5fc710ad8c92.png",
     "static/media/about03.png": "/static/media/about03.7ab2dc6c1e820aa079b0.png",
     "static/media/asus.png": "/static/media/asus.514bc34955008a92e09f.png",
+    "static/media/linkedin.png": "/static/media/linkedin.66ffd29ac1bb3de67249.png",
     "static/media/spring.png": "/static/media/spring.3b06fea2a476b8caccf6.png",
     "static/media/adidas.png": "/static/media/adidas.83df8153294f9137d308.png",
     "static/media/csharp.png": "/static/media/csharp.5a45dfbe7dbab84acddf.png",
@@ -33,10 +34,10 @@
     "index.html": "/index.html",
     "static/media/circle.svg": "/static/media/circle.134eeeb1e58895b892195fe8ed63bc9f.svg",
     "main.5febde62.css.map": "/static/css/main.5febde62.css.map",
-    "main.5dbc795e.js.map": "/static/js/main.5dbc795e.js.map"
+    "main.2773bf2e.js.map": "/static/js/main.2773bf2e.js.map"
   },
   "entrypoints": [
     "static/css/main.5febde62.css",
-    "static/js/main.5dbc795e.js"
+    "static/js/main.2773bf2e.js"
   ]
 }
