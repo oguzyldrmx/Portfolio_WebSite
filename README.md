@@ -24,7 +24,7 @@ For Backend Sanity:
   ```
 For Frontend:
 
-*npm
+* npm
 ```sh
   npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons
   ```
