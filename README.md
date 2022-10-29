@@ -28,7 +28,7 @@ For Frontend:
 ```sh
   npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons
   ```
-  ```sh
+```sh
   npm start
   ```
 
